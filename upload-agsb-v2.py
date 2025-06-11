@@ -32,7 +32,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "subkk"         # 用户名
-UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
+UUID = "79ebb2cb-4b0a-488a-9942-c11e4f58a575"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "sss.yanyejiantong2024.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMjFhZGMzYzljNTIxNWFjOGVlMmZjMjA4N2VjNmRlNjEiLCJ0IjoiOTkwZTg2YmUtMWJlYS00YTViLWI3ZGEtM2ZkMzY0M2ZjZTk4IiwicyI6IlpEQmhNVFExWkRRdFlUUXlNeTAwWldOakxUZzNOV1l0TnprNU5qUTFabU16WWpOaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
